@@ -5,6 +5,6 @@ The main website for scripthookv sometimes doesn't work for you guys so I am goi
 -----------------------------------------------------
 # Download Link here
 
-http://www.dev-c.com/files/ScriptHookV_1.0.2845.0.zip
+http://www.dev-c.com/gtav/scripthookv/
 ------------------------------------------------------
 *This link should always be updated*
